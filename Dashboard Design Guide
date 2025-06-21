@@ -1,0 +1,33 @@
+# Dashboard Design Guide
+
+## Pages
+
+1️⃣ Overview Page
+- Total Revenue (KPI card)
+- Total Orders
+- Total Customers
+- Date Filter
+
+2️⃣ Monthly Sales Trend
+- Line chart of monthly revenue
+
+3️⃣ Top Selling Products
+- Bar chart: Product vs Total Sales
+
+4️⃣ Country-wise Sales
+- Map visual: Sales by Country
+
+5️⃣ Top Customers
+- Table showing customer name, total revenue, number of orders
+
+## Filters
+
+- Date Range
+- Country
+- Product Category
+
+## Business Impact
+
+- Helps management track overall sales trends
+- Identifies top-performing products & regions
+- Enables focused sales & marketing strategy
