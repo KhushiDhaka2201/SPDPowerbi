@@ -1,0 +1,27 @@
+Dataset(Simple Retail Sales Data)
+OrderID	CustomerID	CustomerName	Country	Product	    Category	      Quantity	 Price	  
+  1	      1001	     John Doe	      USA	   Laptop	    Electronics	        1	      1200	  
+  2	      1002	     Jane Smith	   Canada	 Phone	    Electronics	        1	       700	  
+  3	      1001	      John Doe	    USA	  Headphones	Accessories	        2	       150	  
+  4	      1003	     Alice Wong	     UK	   Laptop	    Electronics	        1	      1200	
+  5	      1004	      David Kim	   Canada	  Tablet	  Electronics	        1	       500
+
+Dashboard Features
+ ->Total Revenue
+
+ ->Monthly Sales Trend
+
+->Top Selling Products
+
+-> Country-wise Sales
+
+-> Top Customers
+
+Directory Structure 
+Sales-Dashboard-Project/
+│
+├── README.md
+├── sales_data.csv
+└── dashboard_design_guide.md
+
+
